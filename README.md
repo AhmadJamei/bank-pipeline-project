@@ -53,7 +53,13 @@ Notes
 
 	The project is designed to show data pipeline and visualization skills for HR 	review.
 
-Sample Output
+
+Sample Output	
+
+	The processed data can be visualized in a dashboard created using Excel.  
+	Different types of data are collected, cleaned, and then summarized using 
+	Pivot Tables, providing interactive insights into customer accounts and 
+	transactions.
 
 Total Balance Chart
 
