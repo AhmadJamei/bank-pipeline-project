@@ -52,3 +52,9 @@ Notes
 	The 'data' folder contains example input files.
 
 	The project is designed to show data pipeline and visualization skills for HR 	review.
+
+Sample Output
+
+Total Balance Chart
+
+![Total Balance Chart](data/total_balance_chart.png)
